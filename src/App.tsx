@@ -2,13 +2,15 @@ import { Fragment } from 'react/jsx-runtime'
 
 import "./styles/global.css"
 import "./styles/theme.css"
-import { Heading } from './assets/components/Heading'
+import { Heading } from './components/Heading'
 
 export function App(){
-    console.log("Olá Mundo!")
+    console.log("Ola mundo!")
     return(
         <Fragment>
-            <Heading />
+            <Heading>
+                Hello world!
+            </Heading>
             <p>
                 Lorem, ipsum dolor sit amet consectetur adipisicing elit.
                 Neque nam cum soluta voluptatum fugit magni blanditiis.
@@ -19,3 +21,4 @@ export function App(){
     )
 }
     
+
