@@ -9,7 +9,7 @@ export function App(){
     return(
         <Fragment>
             <Heading>
-                Hello world!
+                Olá mundo!
             </Heading>
             <p>
                 Lorem, ipsum dolor sit amet consectetur adipisicing elit.
