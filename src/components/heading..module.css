@@ -1,7 +1,14 @@
 .heading{
-    background: pink;
-    color: gray;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2.4rem;
+    color: var(--primary-one);
+    font-size: 2.5em;
+    margin-bottom: 20px;
+    background-color: var(color-close-to-purple-but-more-lighter);
+
 }
 .paragraph{
-    color: #7c3aed;
+    color: var(--primary-one);
 }

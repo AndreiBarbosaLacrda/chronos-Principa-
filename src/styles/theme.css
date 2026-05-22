@@ -1,5 +1,5 @@
 :root{
-    --primary: pink;
+    --primary-one: purple;
     --gray-100: #e6e9f0;
     --gray-200: #cdd3e1;
     --gray-300: #aab3cc;
@@ -34,5 +34,10 @@
 
     --dusabled: #555fd7;
     --text-disabled: #aab3cc;
+    --color-close-to-purple-but-more-darker: #3a0f53;
+    --color-close-to-purple-but-more-lighter: #6a1b9a;
+    --color-close-to-purple-but-more-heading: #4a148c;
+
 }
+
 
