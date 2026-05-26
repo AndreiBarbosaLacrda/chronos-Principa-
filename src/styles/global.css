@@ -36,4 +36,6 @@ p{
     background-color: var( --color-close-to-purple-but-more-darker);
     max-width: 98rem ;
     margin: 3.2rem;
+    color: var(--gray-900);
+
 }
